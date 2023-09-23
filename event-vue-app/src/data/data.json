@@ -1,0 +1,83 @@
+[
+	{
+		"key":1,
+		"title": "23 July 2023 Medical Camp",
+		"description":"There was a free checkup camp for patients associated with heart, bone disease, and general medicine. Mission Smile Social Welfare Club, Shri Haridas Nikunj Bihari Seva Samiti, City Gymkhana Club & Sports Culture Club, Rotary Club Sunam City, Sangrur Industrial Chamber Block, and Sunam Shiv Niketan Dharamshala installed in Sunam. The camp was held today from 10 am to 2 pm. Free checkup, sugar checkup, calcium test of bones, ECG, and medicine were given free of charge. MD DM Cardiology Dr. from Patiala Heart Institute, Patiala attended the camp. Gurdarshan Singh, MD Medicine Dr. MJ Jaykant, MBBS MS Ortho Surgeon Dr. Bharat Singla, Dietitian Dr. Nidhi, physiotherapist Dr. Jaskiran Kaur, and their team arrived.",
+		"date":	"23-07-2023",
+		"duration":8,
+		"year":2023,
+		"images":[
+            "23July/1.jpg", "23July/2.jpg", "23July/3.jpg", "23July/4.jpg", "23July/5.jpg", "23July/6.jpg", "23July/7.jpg","23July/8.jpg", "23July/9.jpg", "23July/10.jpg"
+        ]
+	},
+	{
+		"key":2,
+		"title": "Plantation of trees",
+		"description":"Plantation of trees refers to the deliberate act of planting and growing trees in a particular area for various purposes, such as environmental conservation, reforestation, beautification, and sustainable development. It is a crucial practice to combat climate change, restore ecosystems, and improve the overall well-being of the planet and its inhabitants.",
+		"date": "08-07-2023",	
+		"duration":8,
+		"year":2023,
+		"images":[
+            "8July/1.jpg",
+            "8July/2.jpg",
+            "8July/3.jpg",
+            "8July/4.jpg",
+            "8July/5.jpg"
+        ]
+	},
+	{
+		"key":3,
+		"title":"Water Refreshment for Medical Camp",
+		"description":"Mission Smile Social Welfare Club provided pure cold and sweet water for the people visiting the medical camp organized by Shri Haridas Nikunj Bihari Seva Samti, Lions Club Sunam Royal and Sangrur Industrial Chamber Block Sunam",
+		"date": "04-06-2023",
+		"duration":8,
+		"year":2023,
+		"images":[
+            "4June/1.jpg",
+            "4June/2.jpg"
+        ]
+	},
+	{
+		"key":4,
+		"title":"Distribution of plants and awareness about Traffic Rules",
+		"description":"Mission Smile Social Welfare Club Sunam made public aware about traffic rules and stopped the passersby and promised that they will follow all traffic rules from today and also gave message to save environment by distributing plants",
+		"date":	"28-05-2023",
+		"duration":8,
+		"year":2023,
+		"images":[
+            "28May/1.jpg",
+            "28May/2.jpg",
+            "28May/3.jpg",
+            "28May/4.jpg",
+            "28May/5.jpg",
+            "28May/6.jpg"
+        ]
+	},
+	{
+		"key": 5,
+		"title":"Distribution of scora clay utensils",
+		"description":"Members of Mission Smile Social Welfare Club distributed scora clay utensils to the people to water the birds during the scorching heat. The club took an oath to serve the mute birds in this scorching heat. Members urged people to arrange food and water for birds while distributing scores. At this time Vinod Gupta Chairman Babu Anand Saroop reached Jindal Charitable Foundation and Rajiv Kumar Makhan Pradhan Industrial Chamber Block Sunam Club members. They were honored by club members.",
+		"date":	"30-04-2023",
+		"duration":8,
+		"year":2023,
+		"images":[
+            "30April/1.jpg",
+            "30April/2.jpg",
+            "30April/3.jpg",
+            "30April/4.jpg",
+            "30April/5.jpg",
+            "30April/6.jpg"
+        ]
+	},
+	{
+		"key": 6,
+		"title": "Ration to needy",
+		"description":"Understanding the pain of the needy family, Mission Smile Social Welfare Club provided ration to a family in the city.",
+		"date":	"05-03-2023",
+		"duration":8,
+		"year":2023,
+		"images":[
+            "5March/1.jpg"
+        ]
+	}
+]
